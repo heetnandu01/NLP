@@ -1,53 +1,230 @@
 text,label
-"The new grievance portal resolved my complaint within two days.",Positive
-"Streetlight repair updates are now timely and very clear.",Positive
-"Online property tax payment is smooth and easy to complete.",Positive
-"The city app sends useful alerts about water supply schedules.",Positive
-"Garbage collection has become regular in our neighborhood.",Positive
-"Bus tracking information is accurate and helps daily commuters.",Positive
-"The helpline staff were polite and solved my issue quickly.",Positive
-"Road repair work started quickly after residents reported potholes.",Positive
-"Public park maintenance has improved and the area looks clean.",Positive
-"Digital certificate services save a lot of time for citizens.",Positive
-"The traffic control system reduced congestion during peak hours.",Positive
-"My service request status was updated clearly at every step.",Positive
-"Water leakage was fixed the same day after reporting it.",Positive
-"The city website now loads fast and is easy to navigate.",Positive
-"Community feedback meetings are well organized and informative.",Positive
-"The complaint dashboard is transparent and shows proper timelines.",Positive
-"Smart parking guidance reduced searching time near the market.",Positive
-"Emergency response teams reached our area very quickly.",Positive
-"Public toilet cleaning has improved in the bus stand area.",Positive
-"The civic center queue system is efficient and well managed.",Positive
-"The grievance portal is too slow during evening hours.",Negative
-"Water supply interruptions happen often without prior notice.",Negative
-"Road construction has been incomplete for several weeks.",Negative
-"The mobile app crashes whenever I try to submit a complaint.",Negative
-"Garbage pickup is irregular and waste remains on the street.",Negative
-"Bus timing information is frequently wrong and misleading.",Negative
-"Support staff did not respond to repeated follow-up calls.",Negative
-"The online payment page failed after entering card details.",Negative
-"Streetlights in our lane are still not working at night.",Negative
-"The service center was overcrowded and poorly managed.",Negative
-"No action was taken on open drainage complaints.",Negative
-"Traffic signal synchronization failed and caused long jams.",Negative
-"The website login process is confusing and unreliable.",Negative
-"Public restroom facilities are dirty and badly maintained.",Negative
-"The issue tracker shows old status even after resolution.",Negative
-"My request was closed without solving the actual problem.",Negative
-"Rainwater logging complaints were ignored for many days.",Negative
-"The helpline disconnected calls before recording my issue.",Negative
-"Online document verification failed multiple times.",Negative
-"The parking payment kiosk was not functioning properly.",Negative
-"The municipal office opened at 10 AM today.",Neutral
-"A public notice was displayed on the city website.",Neutral
-"The ward meeting is scheduled for Friday afternoon.",Neutral
-"The service counter is open Monday to Saturday.",Neutral
-"The inspection team visited our locality this morning.",Neutral
-"A maintenance announcement was posted for tomorrow.",Neutral
-"The monthly civic bulletin was released in the evening.",Neutral
-"The department uploaded a new circular on the portal.",Neutral
-"I submitted my application at the district office.",Neutral
+happy,Positive
+very happy,Positive
+he is happy,Positive
+I am happy,Positive
+so happy,Positive
+I'm happy,Positive
+feeling happy,Positive
+very very happy,Positive
+excited,Positive
+I am excited,Positive
+so excited,Positive
+delighted,Positive
+I am delighted,Positive
+joyful,Positive
+joy,Positive
+love,Positive
+I love this,Positive
+I love it,Positive
+loving it,Positive
+wonderful,Positive
+this is wonderful,Positive
+amazing,Positive
+that is amazing,Positive
+fantastic,Positive
+this is fantastic,Positive
+great,Positive
+that is great,Positive
+good,Positive
+very good,Positive
+excellent,Positive
+excellent work,Positive
+perfect,Positive
+this is perfect,Positive
+beautiful,Positive
+awesome,Positive
+that is awesome,Positive
+brilliant,Positive
+superb,Positive
+outstanding,Positive
+impressive,Positive
+wonderful experience,Positive
+glad,Positive
+I am glad,Positive
+satisfied,Positive
+very satisfied,Positive
+pleased,Positive
+very pleased,Positive
+thrilled,Positive
+enjoyed,Positive
+I enjoyed it,Positive
+enjoyed it,Positive
+best,Positive
+this is the best,Positive
+best service,Positive
+really good,Positive
+wonderful job,Positive
+amazing work,Positive
+fantastic job,Positive
+you are amazing,Positive
+The new grievance portal resolved my complaint within two days.,Positive
+Streetlight repair updates are now timely and very clear.,Positive
+Online property tax payment is smooth and easy to complete.,Positive
+The city app sends useful alerts about water supply schedules.,Positive
+Garbage collection has become regular in our neighborhood.,Positive
+Bus tracking information is accurate and helps daily commuters.,Positive
+The helpline staff were polite and solved my issue quickly.,Positive
+Road repair work started quickly after residents reported potholes.,Positive
+Public park maintenance has improved and the area looks clean.,Positive
+Digital certificate services save a lot of time for citizens.,Positive
+The traffic control system reduced congestion during peak hours.,Positive
+My service request status was updated clearly at every step.,Positive
+Water leakage was fixed the same day after reporting it.,Positive
+The city website now loads fast and is easy to navigate.,Positive
+Community feedback meetings are well organized and informative.,Positive
+The complaint dashboard is transparent and shows proper timelines.,Positive
+Smart parking guidance reduced searching time near the market.,Positive
+Emergency response teams reached our area very quickly.,Positive
+Public toilet cleaning has improved in the bus stand area.,Positive
+The civic center queue system is efficient and well managed.,Positive
+sad,Negative
+very sad,Negative
+I am sad,Negative
+so sad,Negative
+crying,Negative
+I am crying,Negative
+he is crying,Negative
+she is crying,Negative
+I was crying,Negative
+crying all day,Negative
+cry,Negative
+I cry,Negative
+hate,Negative
+I hate this,Negative
+I hate it,Negative
+hating it,Negative
+terrible,Negative
+this is terrible,Negative
+awful,Negative
+that is awful,Negative
+horrible,Negative
+this is horrible,Negative
+bad,Negative
+very bad,Negative
+worse,Negative
+worst,Negative
+disgusting,Negative
+disappointed,Negative
+I am disappointed,Negative
+very disappointed,Negative
+useless,Negative
+pathetic,Negative
+dreadful,Negative
+unacceptable,Negative
+disappointing,Negative
+ugly,Negative
+poor,Negative
+poor quality,Negative
+bad service,Negative
+not good,Negative
+not happy,Negative
+unhappy,Negative
+I'm unhappy,Negative
+angry,Negative
+I am angry,Negative
+so angry,Negative
+furious,Negative
+frustrated,Negative
+I am frustrated,Negative
+annoyed,Negative
+I am annoyed,Negative
+upset,Negative
+I am upset,Negative
+stressed,Negative
+I am stressed,Negative
+worried,Negative
+I am worried,Negative
+scared,Negative
+I am scared,Negative
+afraid,Negative
+I am afraid,Negative
+depressed,Negative
+I am depressed,Negative
+miserable,Negative
+I am miserable,Negative
+terrible experience,Negative
+bad experience,Negative
+awful experience,Negative
+horrible experience,Negative
+worst experience,Negative
+normal,Neutral
+it is normal,Neutral
+that is normal,Neutral
+he is normal,Neutral
+she is normal,Neutral
+very normal,Neutral
+quite normal,Neutral
+average,Neutral
+just average,Neutral
+okay,Neutral
+it is okay,Neutral
+alright,Neutral
+that is alright,Neutral
+fine,Neutral
+it is fine,Neutral
+moderate,Neutral
+neither good nor bad,Neutral
+so-so,Neutral
+plain,Neutral
+simple,Neutral
+ordinary,Neutral
+The meeting was scheduled for tomorrow.,Neutral
+The office is open from 9 AM to 5 PM.,Neutral
+The report contains 20 pages.,Neutral
+There are five departments in the organization.,Neutral
+The building has three floors.,Neutral
+The department works on project management.,Neutral
+The deadline is next Friday.,Neutral
+The event will be held in the main hall.,Neutral
+The form requires basic information.,Neutral
+The system is updated monthly.,Neutral
+The staff works five days a week.,Neutral
+The area has good infrastructure.,Neutral
+The weather today is cloudy.,Neutral
+The document was submitted on time.,Neutral
+The announcement was made yesterday.,Neutral
+The grievance portal is too slow during evening hours.,Negative
+Water supply interruptions happen often without prior notice.,Negative
+Road construction has been incomplete for several weeks.,Negative
+The mobile app crashes whenever I try to submit a complaint.,Negative
+Garbage pickup is irregular and waste remains on the street.,Negative
+Bus timing information is frequently wrong and misleading.,Negative
+Support staff did not respond to repeated follow-up calls.,Negative
+The online payment page failed after entering card details.,Negative
+Streetlights in our lane are still not working at night.,Negative
+The service center was overcrowded and poorly managed.,Negative
+No action was taken on open drainage complaints.,Negative
+Traffic signal synchronization failed and caused long jams.,Negative
+The website login process is confusing and unreliable.,Negative
+Public restroom facilities are dirty and badly maintained.,Negative
+The issue tracker shows old status even after resolution.,Negative
+My request was closed without solving the actual problem.,Negative
+Rainwater logging complaints were ignored for many days.,Negative
+The helpline disconnected calls before recording my issue.,Negative
+Online document verification failed multiple times.,Negative
+The parking payment kiosk was not functioning properly.,Negative
+The municipal office opened at 10 AM today.,Neutral
+A public notice was displayed on the city website.,Neutral
+The ward meeting is scheduled for Friday afternoon.,Neutral
+The service counter is open Monday to Saturday.,Neutral
+The inspection team visited our locality this morning.,Neutral
+A maintenance announcement was posted for tomorrow.,Neutral
+The monthly civic bulletin was released in the evening.,Neutral
+The department uploaded a new circular on the portal.,Neutral
+I submitted my application at the district office.,Neutral
+The meeting will be held at 2 PM.,Neutral
+The office is closed on Sunday.,Neutral
+The report was submitted on time.,Neutral
+The procedure takes about 15 minutes.,Neutral
+There are 50 vacant positions available.,Neutral
+The application form has 10 sections.,Neutral
+today is Monday.,Neutral
+It is raining outside.,Neutral
+The temperature is 25 degrees.,Neutral
+My name is John.,Neutral
+The city has 5 million people.,Neutral
+The document has 20 pages.,Neutral
 "The transport department shared updated route information.",Neutral
 "A review meeting was held at the municipal hall.",Neutral
 "The report was forwarded to the engineering section.",Neutral

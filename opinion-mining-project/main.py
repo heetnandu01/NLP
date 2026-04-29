@@ -46,11 +46,19 @@ def train_model(data: pd.DataFrame):
         stratify=labels,
     )
 
-    vectorizer = TfidfVectorizer()
+    # Better TF-IDF parameters for sentiment analysis
+    vectorizer = TfidfVectorizer(
+        max_features=1000,
+        ngram_range=(1, 2),
+        min_df=1,
+        max_df=0.95,
+        sublinear_tf=True,
+    )
     x_train_tfidf = vectorizer.fit_transform(x_train)
     x_test_tfidf = vectorizer.transform(x_test)
 
-    model = LogisticRegression(max_iter=1000)
+    # Better model parameters
+    model = LogisticRegression(max_iter=1000, C=1.0, solver='liblinear')
     model.fit(x_train_tfidf, y_train)
 
     y_pred = model.predict(x_test_tfidf)

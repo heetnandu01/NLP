@@ -30,6 +30,7 @@ def get_stop_words() -> set[str]:
     try:
         _STOP_WORDS = set(stopwords.words("english"))
     except LookupError:
+        # Custom stop words that exclude negation words important for sentiment
         _STOP_WORDS = {
             "a",
             "an",
@@ -44,10 +45,7 @@ def get_stop_words() -> set[str]:
             "if",
             "in",
             "into",
-            "is",
             "it",
-            "no",
-            "not",
             "of",
             "on",
             "or",
@@ -61,7 +59,6 @@ def get_stop_words() -> set[str]:
             "they",
             "this",
             "to",
-            "was",
             "will",
             "with",
             "you",
